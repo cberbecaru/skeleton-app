@@ -1,2 +1,4 @@
 local.php
 *.local.php
+!bjyprofiler.local.php
+!zenddevelopertools.local.php
