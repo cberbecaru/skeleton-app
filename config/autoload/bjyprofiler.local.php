@@ -1,13 +1,13 @@
 <?php
 
-$dbParams = array(
-    'database'  => 'changeme',
-    'username'  => 'changeme',
-    'password'  => 'changeme',
-    'hostname'  => 'localhost',
-    // buffer_results - only for mysqli buffered queries, skip for others
-    'options' => array('buffer_results' => true)
-);
+//$dbParams = array(
+//    'database'  => 'changeme',
+//    'username'  => 'changeme',
+//    'password'  => 'changeme',
+//    'hostname'  => 'localhost',
+//    // buffer_results - only for mysqli buffered queries, skip for others
+//    'options' => array('buffer_results' => true)
+//);
 
 return array(
     'service_manager' => array(
